@@ -8,10 +8,12 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. import all the libraries which are needed to the program.
+    get profit prediction graph and computecost value.
+    Get a graph of cost function using gradient descent and also get profit prediction graph.
+    Get the otput of profit for the population of 35,000 and 70,000.
+
+ 
 
 ## Program:
 ```
@@ -20,7 +22,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: v.sreeja
 RegisterNumber:  212222230169
 */
-```
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -87,18 +89,18 @@ print("For population = 35,000, we predict a profit of $"+str(round(predict1,0))
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 
-
+```
 
 ## Output:
-!![Screenshot (97)](https://user-images.githubusercontent.com/118344328/229777931-d781b95c-1d90-4ca5-9a10-fc4ad4652538.png)
-[linear regression using gra
-![Screenshot (98)](https://user-images.githubusercontent.com/118344328/229778076-a67bcff5-2b34-4c1e-876a-a24f1ca923e8.png)
-dient descent](sam.png)
-![Screenshot (99)![Screenshot (100)](https://user-images.githubusercontent.com/118344328/229778577-d3c313ff-9d66-4d7a-88c4-6e62dc63025d.png)
-](https://user-images.githubusercontent.com/118344328/229778381-63661ace-c7e3-4e39-9bbd-9295d81f2f47.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/118344328/229778708-70a62f0d-b998-4ef3-9b84-0461b241c01b.png)
-![Screenshot (102)](https://user-images.githubusercontent.com/118344328/229779042-0a7996e8-4cec-4543-8aae-256748a63e01.png)
-![Uploading Screenshot (109).png…]()
+![Screenshot (97)](https://user-images.githubusercontent.com/118344328/229812805-bf40dc37-dc4f-4a76-84b0-51da2a82f183.png)
+![Screenshot (98)](https://user-images.githubusercontent.com/118344328/229812969-a51380ed-1d67-4d4d-9ab3-5c346c67bd90.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/118344328/229813109-fb8d981e-a1e6-4eb3-98ab-d433e0e3af00.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/118344328/229813490-974043fd-70f0-4ac1-9848-b1b1669b5f46.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/118344328/229813552-9daca927-8fc9-4915-9b08-11d760e23641.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/118344328/229813661-3b694d7c-7bd7-4b45-a64f-db23b453e9da.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/118344328/229813857-161bda7e-68f7-4b0b-9e2d-3a45e650270d.png)
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
