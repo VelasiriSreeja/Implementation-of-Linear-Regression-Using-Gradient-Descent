@@ -92,15 +92,13 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![Screenshot (97)](https://user-images.githubusercontent.com/118344328/229812805-bf40dc37-dc4f-4a76-84b0-51da2a82f183.png)
-![Screenshot (98)](https://user-images.githubusercontent.com/118344328/229812969-a51380ed-1d67-4d4d-9ab3-5c346c67bd90.png)
-![Screenshot (99)](https://user-images.githubusercontent.com/118344328/229813109-fb8d981e-a1e6-4eb3-98ab-d433e0e3af00.png)
-![Screenshot (100)](https://user-images.githubusercontent.com/118344328/229813490-974043fd-70f0-4ac1-9848-b1b1669b5f46.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/118344328/229813552-9daca927-8fc9-4915-9b08-11d760e23641.png)
-![Screenshot (102)](https://user-images.githubusercontent.com/118344328/229813661-3b694d7c-7bd7-4b45-a64f-db23b453e9da.png)
-![Screenshot (102)](https://user-images.githubusercontent.com/118344328/229813857-161bda7e-68f7-4b0b-9e2d-3a45e650270d.png)
-
-
+https://user-images.githubusercontent.com/119288183/229331834-8e32bad6-bd6d-4609-961d-3c1e558f49a2.png
+https://user-images.githubusercontent.com/119288183/229331852-05d9c25b-8c33-4867-bca7-4a0ec6eaeb4d.png
+https://user-images.githubusercontent.com/119288183/229331861-61de58db-6a82-44a5-bcc4-ebb229277edf.png
+https://user-images.githubusercontent.com/119288183/229331870-b0b6431a-6a81-405e-8b9d-e51034138aae.png
+https://user-images.githubusercontent.com/119288183/229331879-6ac35049-de53-4d71-84bb-c48a1a1d206c.png
+https://user-images.githubusercontent.com/119288183/229331904-f024ec0e-ec5c-4311-b065-2d697700b7c8.png
+https://user-images.githubusercontent.com/119288183/229331917-c771a0b0-287a-427e-8ecf-bcb95677e460.png
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
