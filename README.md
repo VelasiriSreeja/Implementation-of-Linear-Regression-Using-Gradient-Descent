@@ -92,13 +92,14 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![229331834-8e32bad6-bd6d-4609-961d-3c1e558f49a2](https://user-images.githubusercontent.com/118344328/229822340-c5eee5c0-d85d-4f7b-8a28-27366445b82e.png)
-![229331852-05d9c25b-8c33-4867-bca7-4a0ec6eaeb4d](https://user-images.githubusercontent.com/118344328/229822458-6a38bfad-c5c4-42e3-af07-6fc8e2b9aea4.png)
-![229331861-61de58db-6a82-44a5-bcc4-ebb229277edf](https://user-images.githubusercontent.com/118344328/229822516-5dab9493-5d90-4b1a-868d-4572ce247d18.png)
-![229331870-b0b6431a-6a81-405e-8b9d-e51034138aae](https://user-images.githubusercontent.com/118344328/229822573-0c5c1805-272b-49fa-926a-0a90c2a3baa6.png)
-![229331879-6ac35049-de53-4d71-84bb-c48a1a1d206c](https://user-images.githubusercontent.com/118344328/229822616-2373c73a-d4d9-472b-80ed-58750779fef6.png)
-![229331904-f024ec0e-ec5c-4311-b065-2d697700b7c8](https://user-images.githubusercontent.com/118344328/229822688-8be430aa-d536-44b1-add6-d8a06a43bf04.png)
-![229331917-c771a0b0-287a-427e-8ecf-bcb95677e460](https://user-images.githubusercontent.com/118344328/229822764-1e9097b0-21d8-425d-9d6b-138f8c3e979d.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/118344328/229823153-36212fa6-8069-440d-b836-d20b642ab25e.png)
+![Screenshot (111](https://user-images.githubusercontent.com/118344328/229823569-450f19cf-e993-4396-8739-70175d4d9b26.png)
+![Screenshot (112](https://user-images.githubusercontent.com/118344328/229823819-da872b9c-3288-4f54-9748-41c139856fc6.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/118344328/229823947-6db710f2-f6d2-4ce8-a053-b9e772e37359.png)
+
+![Screenshot (106)](https://user-images.githubusercontent.com/118344328/229824156-2ac083be-8833-4c52-b5a3-e18e3d7bc490.png)
+![Screenshot (113](https://user-images.githubusercontent.com/118344328/229824312-b8f4f90a-68f4-4d8b-bc7c-6c985aed8fd2.png)
+![Screenshot (115](https://user-images.githubusercontent.com/118344328/229824438-f65432c6-a492-4fa9-9bd5-03f4676d4e31.png)
 
 
 ## Result:
