@@ -9,9 +9,9 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1. import all the libraries which are needed to the program.
-    get profit prediction graph and computecost value.
-    Get a graph of cost function using gradient descent and also get profit prediction graph.
-    Get the otput of profit for the population of 35,000 and 70,000.
+2.  get profit prediction graph and computecost value.
+3. Get a graph of cost function using gradient descent and also get profit prediction graph.
+4. Get the otput of profit for the population of 35,000 and 70,000.
 
  
 
