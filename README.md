@@ -93,20 +93,14 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 
-![Screenshot (104)](https://user-images.githubusercontent.com/118344328/229823153-36212fa6-8069-440d-b836-d20b642ab25e.png)
-
-![Screenshot (111](https://user-images.githubusercontent.com/118344328/229823569-450f19cf-e993-4396-8739-70175d4d9b26.png)
-
-![Screenshot (112](https://user-images.githubusercontent.com/118344328/229823819-da872b9c-3288-4f54-9748-41c139856fc6.png)
-
-![Screenshot (105)](https://user-images.githubusercontent.com/118344328/229823947-6db710f2-f6d2-4ce8-a053-b9e772e37359.png)
+![Screenshot (287)](https://github.com/VelasiriSreeja/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118344328/2ebaa595-232e-4a14-98fc-306060d4fbaa)
 
 
-![Screenshot (106)](https://user-images.githubusercontent.com/118344328/229824156-2ac083be-8833-4c52-b5a3-e18e3d7bc490.png)
+![Screenshot (288)](https://github.com/VelasiriSreeja/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118344328/4c3baf32-f507-40fe-b5c1-c479164abc06)
 
-![Screenshot (113](https://user-images.githubusercontent.com/118344328/229824312-b8f4f90a-68f4-4d8b-bc7c-6c985aed8fd2.png)
+![Screenshot (289)](https://github.com/VelasiriSreeja/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118344328/30fbaf48-8940-41db-b74b-770cf7a0932c)
 
-![Screenshot (115](https://user-images.githubusercontent.com/118344328/229824438-f65432c6-a492-4fa9-9bd5-03f4676d4e31.png)
+![Screenshot (290)](https://github.com/VelasiriSreeja/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118344328/6112c076-fff5-4c64-aea1-e907894412fc)
 
 
 ## Result:
